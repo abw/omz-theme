@@ -12,7 +12,7 @@ Clone this repository:
 
     $ git clone git@github.com:abw/omz-theme.git
 
- Copy the `themes\abw.zsh-theme` file to your `.oh-my-zsh/themes` directory.
+ Copy the `themes/abw.zsh-theme` file to your `.oh-my-zsh/themes` directory.
 
     $ cp omz-theme/themes/abw.zsh-theme ~/.oh-my-zsh/themes
 

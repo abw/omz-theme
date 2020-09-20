@@ -2,6 +2,8 @@
 
 This repository contains my personal theme for Oh My Zsh.
 
+<img src="https://github.com/abw/omz-theme/blob/master/images/abw-omz-theme-example.png?raw=true">
+
 # Installation
 
 You first need to have Z shell and Oh My Zsh installed.
